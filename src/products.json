@@ -1,0 +1,32 @@
+[
+    {
+        "title": "T-shirt",
+        "price": "120$",
+        "type": "homme",
+        "img": "/products/tshirth.jpg"
+    },
+    {
+        "title": "Casquette",
+        "price": "120$",
+        "type": "homme",
+        "img": "/products/casquette.jpg"
+    },
+    {
+        "title": "T-shirt",
+        "price": "120$",
+        "type": "femme",
+        "img": "/products/tshirtf.jpg"
+    },
+    {
+        "title": "Pull",
+        "price": "120$",
+        "type": "homme",
+        "img": "/products/pull.jpg"
+    },
+    {
+        "title": "Robe",
+        "price": "120$",
+        "type": "femme",
+        "img": "/products/robe.jpg"
+    }
+]

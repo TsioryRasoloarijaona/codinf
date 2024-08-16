@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Gojo Satoru",
+        "role": "Admin",
+        "img": "/team/IMG_20240101_191646.jpg"
+    },{
+        "id": 2,
+        "name": "Yuji Itadori",
+        "role": "Admin",
+        "img": "/team/yuji.png"
+    },{
+        "id": 3,
+        "name": "Nobara Kugisaki",
+        "role": "Admin",
+        "img": "/team/nobara.png"
+    },{
+        "id": 4,
+        "name": "Toji Zenin",
+        "role": "Admin",
+        "img": "/team/toji.png"
+    },{
+        "id": 5,
+        "name": "Megumi Zenin",
+        "role": "Admin",
+        "img": "/team/megumi.png"
+    },{
+        "id": 6,
+        "name": "Mei Mei",
+        "role": "Admin",
+        "img": "/team/mei.png"
+    }
+]

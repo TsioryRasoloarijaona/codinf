@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    cursor: none;
+    scroll-behavior: smooth;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+* {
+    -ms-overflow-style: none; 
+    scrollbar-width: none; 
+}
